@@ -1,6 +1,6 @@
 <template>
   <div class="container py-4 dir-rtl bg-dark">
-    
+    ali
   </div>
 </template>
 
